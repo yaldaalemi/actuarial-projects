@@ -1,4 +1,3 @@
-# actuarial-projects
 # Actuarial & Data Analytics Portfolio
 
 This portfolio showcases projects demonstrating my technical, statistical, and actuarial skills as I transition into the actuarial field.
